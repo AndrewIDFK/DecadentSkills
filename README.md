@@ -1,2 +1,2 @@
 # DecadentSkills
-Decadent Skills, a skill tree mod for Terraria.
+Decadent Skills, a skill tree mod for Terraria but with a twist...
